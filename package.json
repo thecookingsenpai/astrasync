@@ -1,6 +1,6 @@
 {
   "name": "astrasync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make possible to use async methods in sync methods",
   "main": "astrasync.js",
   "scripts": {
