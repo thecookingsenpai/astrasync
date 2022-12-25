@@ -1,0 +1,24 @@
+{
+  "name": "astrasync",
+  "version": "1.0.0",
+  "description": "Make possible to use async methods in sync methods",
+  "main": "astrasync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecookingsenpai/desync.git"
+  },
+  "keywords": [
+    "sync",
+    "async",
+    "desync"
+  ],
+  "author": "thecookingsenpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecookingsenpai/desync/issues"
+  },
+  "homepage": "https://github.com/thecookingsenpai/desync#readme"
+}
